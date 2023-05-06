@@ -7,11 +7,11 @@ The IHSA has been using the dataset to keep track of the injuries and analyze th
 ## Project Objective
 The purpose of this project is to develop a comprehensive data analysis service for the Infrastructure Health and Safety Association (IHSA) to identify leading factors contributing to injuries in the construction industry in Ontario. This service will assist the IHSA in making informed decisions on where to allocate resources to prevent or reduce injuries. 
 
-### Partner
+## Partner
 * Client: [The Infrastructure Health & Safety Association (IHSA)](https://www.ihsa.ca/)
 * Supervisor: [Professor Greg A. Jamieson](https://www.mie.utoronto.ca/faculty_staff/jamieson/)
 
-### Methods Used
+## Methods Used
 * Data Cleaning, including filtering relevant data, correcting data types, and dropping and imputing missing values using measures of central tendency
 * Exploratory Data Analysis (EDA), including computing summary statistics, computing percentage of sub categories of each categorical variable, plotting histogram, plotting boxplot, and plotting correlation matrix
 * Feature Engineering, including regrouping subcategories within some categorical variables
@@ -20,7 +20,7 @@ The purpose of this project is to develop a comprehensive data analysis service 
 * Model Evaluation, including testing the model on test dataset
 * Model Tuning, including implementing grid search to tune the model
 
-### Technologies
+## Technologies
 * Python (Numpy, Pandas, Seaborn, Scikit-learn) 
 * Google Colaboratory
 * Microsoft Excel
