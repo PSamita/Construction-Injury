@@ -1,5 +1,5 @@
 # Injuries in Construction Industry: Exploring Causes of Accidents Using Machine Learning
-This project is a part of the course [APS490: Multi-Disciplinary Capstone Design] (https://engineering.calendar.utoronto.ca/course/aps490y1) under the [Department of Mechanical and Industrial Engineering] (https://www.mie.utoronto.ca/) at the [University of Toronto.] (https://www.utoronto.ca/)
+This project is a part of the course [APS490: Multi-Disciplinary Capstone Design](https://engineering.calendar.utoronto.ca/course/aps490y1) under the [Department of Mechanical and Industrial Engineering](https://www.mie.utoronto.ca/) at the [University of Toronto.](https://www.utoronto.ca/)
 
 #### -- Project Status: [Completed]
 
@@ -7,8 +7,8 @@ This project is a part of the course [APS490: Multi-Disciplinary Capstone Design
 The purpose of this project is to develop a comprehensive data analysis service for the Infrastructure Health and Safety Association (IHSA) to identify leading factors contributing to injuries in the construction industry in Ontario. This service will assist the IHSA in making informed decisions on where to allocate resources to prevent or reduce injuries. 
 
 ### Partner
-* Client: [The Infrastructure Health & Safety Association (IHSA)] (https://www.ihsa.ca/)
-* Supervisor: [Professor Greg A. Jamieson] (https://www.mie.utoronto.ca/faculty_staff/jamieson/)
+* Client: [The Infrastructure Health & Safety Association (IHSA)](https://www.ihsa.ca/)
+* Supervisor: [Professor Greg A. Jamieson](https://www.mie.utoronto.ca/faculty_staff/jamieson/)
 
 ### Methods Used
 * Data Cleaning, including filtering relevant data, correcting data types, and dropping and imputing missing values using measures of central tendency
