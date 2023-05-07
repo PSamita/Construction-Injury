@@ -35,4 +35,5 @@ Further investigation suggested that as the accident age range increases, the av
 <img width="647" alt="image" src="https://user-images.githubusercontent.com/98556651/236646401-825a3fc6-ca2b-4770-ac24-167a43e651e9.png">
 The analysis also showed that employees with less than 6 months of experience at the time of the accident contribute to around 62.73% of the total year-to-date accident costs.
 
+
 This project is a part of the course [APS490: Multi-Disciplinary Capstone Design](https://engineering.calendar.utoronto.ca/course/aps490y1) under the [Department of Mechanical and Industrial Engineering](https://www.mie.utoronto.ca/) at the [University of Toronto.](https://www.utoronto.ca/)
